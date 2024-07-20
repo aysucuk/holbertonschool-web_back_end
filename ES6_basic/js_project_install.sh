@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # 
 # Sets everything up to start coding the new js projects.
