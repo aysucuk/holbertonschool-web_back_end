@@ -64,4 +64,3 @@ class Server:
                 'page_size': vals,
                 'data': page
         }
-    
